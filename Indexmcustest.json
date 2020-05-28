@@ -1,0 +1,43 @@
+[
+    {
+     "Boardseries": "Nucleo-64"     
+     ,
+     "mcufamily":{
+         "F0":["STM32F03R8","STM32F072RB","STM32F091RC"],
+         "F1":["STM32F103RB"], 
+         "F3":["STM32F303R8","STM32F303RE"],
+         "F4":["STM32F401RE","STM32F411RE","STM32446RE"],
+         "G0":["STM32F071RB"],
+         "G4":["STM32G431RB","STM32F474RE"],
+         "L0":["STM32L053R8","STM32L073RZ"],
+         "L1":["STM32L152RE"],
+         "L4":["STM32L433RC-P","STM32L452RE","STM32L452RE-P","STM32L476RG"],
+         "WB":["P-Neucleo WB55RG"],
+         "Specifications":{
+            "STM32F03R8":["LQFP64","64 kBytes","8 kBytes","55","48 MHz","0","status Active"],
+            "STM32F072RB":["LQFP64,UFBGA64","128 kBytes","16 kBytes","51","48 MHz","0","Status Active"],
+            "STM32F091RC":["LQFP64,UFBGA64,WLCSP64","256 KBytes","32 KBytes","52","48 MHz","0","Status Active"],
+            "STM32F103RB":["TFBGA64","128 kByte","20 kBytes","50","72 MHz","0","Status Active"],
+            "STM32F303R8":["LQFP64","64 kBytes","16 kBytes","51","72 MHz","0","Status Active"],
+            "STM32F32F303RE":["LQFP64","512 kBytes","80 kBytes","51","72 MHz","0","Status Active"],
+            "STM32F401RE":["LQFP64","512 kbytes","96 kBytes","50","84 MHz","0","Status Active"],
+            "STM32F411RE":["LQFP64","512 kBytes","128 kbytes","50","100 MHz","0","Status Active"],
+            "STM32F446RE":["LQFP64","512 kbytes","128 kbytes","50","180 MHz","0","Status Active"],
+            "STM32G071RB":["LQFP64,UFBGA64","128 kBytes","36 kBytes","60","64 MHz","0","Status Active"],
+            "STM32G431RB":["LQFP64,UFBGA64","128 kBytes","32 kBytes","52,52","170 MHz","0","Status Active"],
+            "STM32G474RE":["LQFP64,UFBGA64","512 kBytes","128 kBytes","52","170 MHz","0","Status Active"], 
+            "STM32L053R8":["LQFP64,TFBGA64","64 kBytes","8 kBytes","51,150","32 MHz","0","Status Active"],
+            "STM32L073RZ":["LQFP64,UFBGA64,TFBGA64","192 KBytes","20 kBytes","51,50,50","32 MHz","0","Status Active"],
+            "STM32L152RE":["LQFP64","512 kBytes","80 kBytes","51","32 MHz","0","Status Active"],
+            "STM32L433RC-P":["LQFP64,UFBGA64,WLCSP64","256 KBytes","64 KBytes","52,52,52","80 MHz","0","Status Active"], 
+            "STM32L452RE":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
+            "STM32L452RE-P":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
+            "STM32L476RG":["LQFP64","1024 kBytes","128 kBytes","51","80 MHz","0","Status Active"],
+            "P-Neucleo WB55RG":["VFQFPN68","1024 kBytes","256 KBytes","49","64 MHz","0","Status Active"]    
+                   
+        }
+ 
+ 
+  }
+    }
+  ]
