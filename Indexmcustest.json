@@ -1,0 +1,63 @@
+[
+    {
+     "Boardseries": "Nucleo-64"     
+     ,
+     "mcufamily":{
+         "F0":["STM32F03R8","STM32F072RB","STM32F091RC"],
+         "F1":["STM32F103RB"], 
+         "F3":["STM32F303R8","STM32F303RE"],
+         "F4":["STM32F401RE","STM32F411RE","STM32446RE"],
+         "G0":["STM32F071RB"],
+         "G4":["STM32G431RB","STM32F474RE"],
+         "L0":["STM32L053R8","STM32L073RZ"],
+         "L1":["STM32L152RE"],
+         "L4":["STM32L433RC-P","STM32L452RE","STM32L452RE-P","STM32L476RG"],
+         "WB":["P-Neucleo WB55RG"],
+         "Specifications":{
+            "STM32F03R8":["LQFP64","64 kBytes","8 kBytes","55","48 MHz","0","status Active"],
+            "STM32F072RB":["LQFP64,UFBGA64","128 kBytes","16 kBytes","51","48 MHz","0","Status Active"],
+            "STM32F091RC":["LQFP64,UFBGA64,WLCSP64","256 KBytes","32 KBytes","52","48 MHz","0","Status Active"],
+            "STM32F103RB":["TFBGA64","128 kByte","20 kBytes","50","72 MHz","0","Status Active"],
+            "STM32F303R8":["LQFP64","64 kBytes","16 kBytes","51","72 MHz","0","Status Active"],
+            "STM32F32F303RE":["LQFP64","512 kBytes","80 kBytes","51","72 MHz","0","Status Active"],
+            "STM32F401RE":["LQFP64","512 kbytes","96 kBytes","50","84 MHz","0","Status Active"],
+            "STM32F411RE":["LQFP64","512 kBytes","128 kbytes","50","100 MHz","0","Status Active"],
+            "STM32F446RE":["LQFP64","512 kbytes","128 kbytes","50","180 MHz","0","Status Active"],
+            "STM32G071RB":["LQFP64,UFBGA64","128 kBytes","36 kBytes","60","64 MHz","0","Status Active"],
+            "STM32G431RB":["LQFP64,UFBGA64","128 kBytes","32 kBytes","52,52","170 MHz","0","Status Active"],
+            "STM32G474RE":["LQFP64,UFBGA64","512 kBytes","128 kBytes","52","170 MHz","0","Status Active"], 
+            "STM32L053R8":["LQFP64,TFBGA64","64 kBytes","8 kBytes","51,150","32 MHz","0","Status Active"],
+            "STM32L073RZ":["LQFP64,UFBGA64,TFBGA64","192 KBytes","20 kBytes","51,50,50","32 MHz","0","Status Active"],
+            "STM32L152RE":["LQFP64","512 kBytes","80 kBytes","51","32 MHz","0","Status Active"],
+            "STM32L433RC-P":["LQFP64,UFBGA64,WLCSP64","256 KBytes","64 KBytes","52,52,52","80 MHz","0","Status Active"], 
+            "STM32L452RE":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
+            "STM32L452RE-P":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
+            "STM32L476RG":["LQFP64","1024 kBytes","128 kBytes","51","80 MHz","0","Status Active"],
+            "P-Neucleo WB55RG":["VFQFPN68","1024 kBytes","256 KBytes","49","64 MHz","0","Status Active"]    
+                   
+        },
+        "descriptionsspec":{
+            "STM32F03R8":["Mainstream ARM Cotex-M0 Value line MCU with 64 Kbytes Flash, 48 MHz CPU"],
+            "STM32F072RB":["Mainstream ARM Cortex-M0 Value line MCU with 128 Kbytes Flash, 48 MHz CPU,USB,CAN and CEC functions"],
+            "STM32F091RC":["Mainstream ARM Cortex-M0 Value line MCU with 256 Kbytes Flash, 48 MHz CPU,CAN and CEC functions"],
+            "STM32F103RB":["Mainstream ARM Cortex-M3 Value line MCU with 128 Kbytes Flash, 72 MHz CPU,motor control, USB and CAN"],
+            "STM32F303R8":["Mainstream Mixed signals MCUs ARM Cortex-M4 core with DSP and FPU, 64 Kbytes Flash,72 MHz CPU, CCM, 12-bit ADC 5 MSPS, comparators, op-amp"],
+            "STM32F303RE":["Mainstream Mixed signals MCUs ARM Cortex-M4 core with DSP and FPU, 64 Kbytes Flash,51 Kbytes Flash,72 MHz CPU,MPU,CCM 12-bits ADC 5 MSPS, PGA,comparators"],
+            "STM32F401RE":["STM32 Dynamic Efficiency MCU, ARM Cortex-M4 core with DSP and FPU, up to 512 Kbytes Flash, 84 MHz CPU, Art Accelerator"],
+            "STM32F411RE":["High-performance access line, ARM Cortex-M4 core with DSP and FPU, 512 Kbytes Flash, 100 MHz CPU, ART Accelerator"],
+            "STM32F446RE":["High-performance foundation line, ARM Cortex-M4 core with DSP and FPU, 512 Kbytes Flash, 180 MHz CPU, ART Accelerator, Dual QSPI"],
+            "STM32G071RB":["Mainstream Arm Cortex-M0+ MCU with 128 Kbytes of Flash memory, 36 Kbytes RAM, 64 MHz CPU, 4x USART, timers, ADC, DAC, comm. I/F, 1.7-3.6V"],
+            "STM32G431RB":["Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration"],
+            "STM32G474RE":["Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration"], 
+            "STM32L053R8":["Ultra-low-power ARM Cortex-M0+ MCU with 64 Kbytes Flash, 32 MHz CPU, USB, LCD"],
+            "STM32L073RZ":["Ultra-low-power Arm Cortex-M0+ MCU with 192 Kbytes Flash, 32 MHz CPU, USB, LCD"],
+            "STM32L152RE":["Ultra-low-power ARM Cortex-M3 MCU with 512 Kbytes Flash, 32 MHz CPU, USB, 2xOp-amp"],
+            "STM32L433RC-P":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 256 Kbytes Flash, LCD, USB"], 
+            "STM32L452RE":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
+            "STM32L452RE-P":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
+            "STM32L476RG":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 1 Mbyte Flash, LCD, USB OTG, DFSDM"],
+            "P-Neucleo WB55RG":["Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32MHz with 1 Mbyte of Flash memory, Bluetooth 5, 802.15.4, USB, LCD, AES-256"]    
+        }
+  }
+}
+]
