@@ -1,0 +1,26 @@
+[
+    {
+     "Sensortype": "Disc encoder",
+   
+     "Sensorlist":{ 
+         "Sensorcode":["AEDR-8300","AEAT-9000 series","","",""],
+         "Sensordesc":["Reflective Optical Encoder Module Two Channel Encoder Winder Output TTL Compatible Quadrature Signals","17-bit Optical encoder","","",""]        
+    }
+  },
+  {
+     "Sensortype":"Magnetic-encoder",
+     "Sensorlist":{
+          "Sensorcode":["AS5311","KMA36","AM4096","AS5132","AS5048"],   
+          "Sensordesc":["high resolution magnetic linear encoder for accurate linear motion and off-axis rotary sensing with aresolution down to <0.5µm","Highly accurate and reliable magnetic encoder","12-bit rotary magnetic sensor ic","High Speed Magnetic Rotary Encoder IC","14-bit Magnetic Rotary Encoder IC"]
+       }
+  
+  },
+  {
+    "Sensortype":"Analog flexible resistor",
+    "Sensorlist":{
+       "Sensorcode":["FSR402","",""],
+       "Sensordesc":["Sensitive force resistor","",""]    
+    }
+
+  }
+]
