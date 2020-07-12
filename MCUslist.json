@@ -12,7 +12,7 @@
             "STM32F091RC":["LQFP64,UFBGA64,WLCSP64","256 KBytes","32 KBytes","52","48 MHz","0","Status Active"],
             "STM32F103RB":["TFBGA64","128 kByte","20 kBytes","50","72 MHz","0","Status Active"],
             "STM32F303R8":["LQFP64","64 kBytes","16 kBytes","51","72 MHz","0","Status Active"],
-            "STM32F32F303RE":["LQFP64","512 kBytes","80 kBytes","51","72 MHz","0","Status Active"],
+            "STM32F303RE":["LQFP64","512 kBytes","80 kBytes","51","72 MHz","0","Status Active"],
             "STM32F401RE":["LQFP64","512 kbytes","96 kBytes","50","84 MHz","0","Status Active"],
             "STM32F411RE":["LQFP64","512 kBytes","128 kbytes","50","100 MHz","0","Status Active"],
             "STM32F446RE":["LQFP64","512 kbytes","128 kbytes","50","180 MHz","0","Status Active"],
