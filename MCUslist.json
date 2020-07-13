@@ -45,11 +45,11 @@
             "STM32L053R8":["Ultra-low-power ARM Cortex-M0+ MCU with 64 Kbytes Flash, 32 MHz CPU, USB, LCD"],
             "STM32L073RZ":["Ultra-low-power Arm Cortex-M0+ MCU with 192 Kbytes Flash, 32 MHz CPU, USB, LCD"],
             "STM32L152RE":["Ultra-low-power ARM Cortex-M3 MCU with 512 Kbytes Flash, 32 MHz CPU, USB, 2xOp-amp"],
-            "STM32L433RC-P":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 256 Kbytes Flash, LCD, USB"], 
+            "STM32L433RCP":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 256 Kbytes Flash, LCD, USB"], 
             "STM32L452RE":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
-            "STM32L452RE-P":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
+            "STM32L452REP":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
             "STM32L476RG":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 1 Mbyte Flash, LCD, USB OTG, DFSDM"],
-            "P-Neucleo WB55RG":["Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32MHz with 1 Mbyte of Flash memory, Bluetooth 5, 802.15.4, USB, LCD, AES-256"]    
+            "PNeucleo WB55RG":["Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32MHz with 1 Mbyte of Flash memory, Bluetooth 5, 802.15.4, USB, LCD, AES-256"]    
         }
   }
   
