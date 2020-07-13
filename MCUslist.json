@@ -104,7 +104,7 @@
             "STM32H743ZI":["High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 2MBytes of Flash memory, 1MB RAM, 480 MHz CPU, Art Accelerator, L1 cache, external memory interface, large set of peripherals"],
             "STM32H743ZI2":["High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 2MBytes of Flash memory, 1MB RAM, 480 MHz CPU, Art Accelerator, L1 cache, external memory interface, large set of peripherals"],
             "STM32L496ZG":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 1 Mbyte Flash, USB OTG, LCD, DFSDM"],
-            "STM32L496ZG-P":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 1 Mbyte Flash, USB OTG, LCD, DFSDM"],
+            "STM32L496ZGP":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 1 Mbyte Flash, USB OTG, LCD, DFSDM"],
             "STM32L4R5ZI":["Ultra-low-power with FPU ARM Cortex-M4 MCU 120 MHz with 2048 kbytes Flash, USB OTG, DFSDM, CHROM-ART"],
             "STM32L4R5ZI-P":["Ultra-low-power with FPU ARM Cortex-M4 MCU 120 MHz with 2048 kbytes Flash, USB OTG, DFSDM, CHROM-ART"]
            }
