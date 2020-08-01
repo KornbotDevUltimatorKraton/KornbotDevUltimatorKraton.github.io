@@ -1,0 +1,2126 @@
+[{
+    "eagle": {
+    "drawing": {
+        "settings": {
+            "setting": [
+                {
+                    "_alwaysvectorfont": "no"
+                },
+                {
+                    "_verticaltext": "up"
+                }
+            ]
+        },
+        "grid": {
+            "_distance": "0.1",
+            "_unitdist": "inch",
+            "_unit": "inch",
+            "_style": "lines",
+            "_multiple": "1",
+            "_display": "no",
+            "_altdistance": "0.01",
+            "_altunitdist": "inch",
+            "_altunit": "inch"
+        },
+        "layers": {
+            "layer": [
+                {
+                    "_number": "1",
+                    "_name": "Top",
+                    "_color": "4",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "2",
+                    "_name": "Route2",
+                    "_color": "16",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "3",
+                    "_name": "Route3",
+                    "_color": "17",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "4",
+                    "_name": "Route4",
+                    "_color": "18",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "5",
+                    "_name": "Route5",
+                    "_color": "19",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "6",
+                    "_name": "Route6",
+                    "_color": "25",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "7",
+                    "_name": "Route7",
+                    "_color": "26",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "8",
+                    "_name": "Route8",
+                    "_color": "27",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "9",
+                    "_name": "Route9",
+                    "_color": "28",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "10",
+                    "_name": "Route10",
+                    "_color": "29",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "11",
+                    "_name": "Route11",
+                    "_color": "30",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "12",
+                    "_name": "Route12",
+                    "_color": "20",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "13",
+                    "_name": "Route13",
+                    "_color": "21",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "14",
+                    "_name": "Route14",
+                    "_color": "22",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "15",
+                    "_name": "Route15",
+                    "_color": "23",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "16",
+                    "_name": "Bottom",
+                    "_color": "1",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "17",
+                    "_name": "Pads",
+                    "_color": "2",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "18",
+                    "_name": "Vias",
+                    "_color": "2",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "19",
+                    "_name": "Unrouted",
+                    "_color": "6",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "20",
+                    "_name": "Dimension",
+                    "_color": "24",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "21",
+                    "_name": "tPlace",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "22",
+                    "_name": "bPlace",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "23",
+                    "_name": "tOrigins",
+                    "_color": "15",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "24",
+                    "_name": "bOrigins",
+                    "_color": "15",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "25",
+                    "_name": "tNames",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "26",
+                    "_name": "bNames",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "27",
+                    "_name": "tValues",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "28",
+                    "_name": "bValues",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "29",
+                    "_name": "tStop",
+                    "_color": "7",
+                    "_fill": "3",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "30",
+                    "_name": "bStop",
+                    "_color": "7",
+                    "_fill": "6",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "31",
+                    "_name": "tCream",
+                    "_color": "7",
+                    "_fill": "4",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "32",
+                    "_name": "bCream",
+                    "_color": "7",
+                    "_fill": "5",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "33",
+                    "_name": "tFinish",
+                    "_color": "6",
+                    "_fill": "3",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "34",
+                    "_name": "bFinish",
+                    "_color": "6",
+                    "_fill": "6",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "35",
+                    "_name": "tGlue",
+                    "_color": "7",
+                    "_fill": "4",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "36",
+                    "_name": "bGlue",
+                    "_color": "7",
+                    "_fill": "5",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "37",
+                    "_name": "tTest",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "38",
+                    "_name": "bTest",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "39",
+                    "_name": "tKeepout",
+                    "_color": "4",
+                    "_fill": "11",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "40",
+                    "_name": "bKeepout",
+                    "_color": "1",
+                    "_fill": "11",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "41",
+                    "_name": "tRestrict",
+                    "_color": "4",
+                    "_fill": "10",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "42",
+                    "_name": "bRestrict",
+                    "_color": "1",
+                    "_fill": "10",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "43",
+                    "_name": "vRestrict",
+                    "_color": "2",
+                    "_fill": "10",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "44",
+                    "_name": "Drills",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "45",
+                    "_name": "Holes",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "46",
+                    "_name": "Milling",
+                    "_color": "3",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "47",
+                    "_name": "Measures",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "no",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "48",
+                    "_name": "Document",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "49",
+                    "_name": "Reference",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "51",
+                    "_name": "tDocu",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "52",
+                    "_name": "bDocu",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "88",
+                    "_name": "SimResults",
+                    "_color": "9",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "89",
+                    "_name": "SimProbes",
+                    "_color": "9",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "90",
+                    "_name": "Modules",
+                    "_color": "5",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "91",
+                    "_name": "Nets",
+                    "_color": "2",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "92",
+                    "_name": "Busses",
+                    "_color": "1",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "93",
+                    "_name": "Pins",
+                    "_color": "2",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "94",
+                    "_name": "Symbols",
+                    "_color": "4",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "95",
+                    "_name": "Names",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "96",
+                    "_name": "Values",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "97",
+                    "_name": "Info",
+                    "_color": "7",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                },
+                {
+                    "_number": "98",
+                    "_name": "Guide",
+                    "_color": "6",
+                    "_fill": "1",
+                    "_visible": "yes",
+                    "_active": "yes"
+                }
+            ]
+        },
+        "library": {
+            "packages": {
+                "package": {
+                    "description": "64-QFP, 0.50 mm pitch, 12.00 mm span, 10.00 X 10.00 X 1.60 mm body\n<p>64-pin QFP package with 0.50 mm pitch, 12.00 mm lead span1 X 12.00 mm lead span2 with body size 10.00 X 10.00 X 1.60 mm</p>",
+                    "circle": {
+                        "_x": "-5.703",
+                        "_y": "4.394",
+                        "_radius": "0.25",
+                        "_width": "0",
+                        "_layer": "21"
+                    },
+                    "wire": [
+                        {
+                            "_x1": "-5",
+                            "_y1": "4.144",
+                            "_x2": "-5",
+                            "_y2": "5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "-5",
+                            "_y1": "5",
+                            "_x2": "-4.144",
+                            "_y2": "5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "5",
+                            "_y1": "4.144",
+                            "_x2": "5",
+                            "_y2": "5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "5",
+                            "_y1": "5",
+                            "_x2": "4.144",
+                            "_y2": "5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "5",
+                            "_y1": "-4.144",
+                            "_x2": "5",
+                            "_y2": "-5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "5",
+                            "_y1": "-5",
+                            "_x2": "4.144",
+                            "_y2": "-5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "-5",
+                            "_y1": "-4.144",
+                            "_x2": "-5",
+                            "_y2": "-5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "-5",
+                            "_y1": "-5",
+                            "_x2": "-4.144",
+                            "_y2": "-5",
+                            "_width": "0.12",
+                            "_layer": "21"
+                        },
+                        {
+                            "_x1": "5",
+                            "_y1": "-5",
+                            "_x2": "-5",
+                            "_y2": "-5",
+                            "_width": "0.12",
+                            "_layer": "51"
+                        },
+                        {
+                            "_x1": "-5",
+                            "_y1": "-5",
+                            "_x2": "-5",
+                            "_y2": "5",
+                            "_width": "0.12",
+                            "_layer": "51"
+                        },
+                        {
+                            "_x1": "-5",
+                            "_y1": "5",
+                            "_x2": "5",
+                            "_y2": "5",
+                            "_width": "0.12",
+                            "_layer": "51"
+                        },
+                        {
+                            "_x1": "5",
+                            "_y1": "5",
+                            "_x2": "5",
+                            "_y2": "-5",
+                            "_width": "0.12",
+                            "_layer": "51"
+                        }
+                    ],
+                    "smd": [
+                        {
+                            "_name": "1",
+                            "_x": "-5.6713",
+                            "_y": "3.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "2",
+                            "_x": "-5.6713",
+                            "_y": "3.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "3",
+                            "_x": "-5.6713",
+                            "_y": "2.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "4",
+                            "_x": "-5.6713",
+                            "_y": "2.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "5",
+                            "_x": "-5.6713",
+                            "_y": "1.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "6",
+                            "_x": "-5.6713",
+                            "_y": "1.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "7",
+                            "_x": "-5.6713",
+                            "_y": "0.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "8",
+                            "_x": "-5.6713",
+                            "_y": "0.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "9",
+                            "_x": "-5.6713",
+                            "_y": "-0.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "10",
+                            "_x": "-5.6713",
+                            "_y": "-0.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "11",
+                            "_x": "-5.6713",
+                            "_y": "-1.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "12",
+                            "_x": "-5.6713",
+                            "_y": "-1.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "13",
+                            "_x": "-5.6713",
+                            "_y": "-2.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "14",
+                            "_x": "-5.6713",
+                            "_y": "-2.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "15",
+                            "_x": "-5.6713",
+                            "_y": "-3.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "16",
+                            "_x": "-5.6713",
+                            "_y": "-3.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "17",
+                            "_x": "-3.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "18",
+                            "_x": "-3.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "19",
+                            "_x": "-2.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "20",
+                            "_x": "-2.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "21",
+                            "_x": "-1.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "22",
+                            "_x": "-1.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "23",
+                            "_x": "-0.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "24",
+                            "_x": "-0.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "25",
+                            "_x": "0.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "26",
+                            "_x": "0.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "27",
+                            "_x": "1.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "28",
+                            "_x": "1.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "29",
+                            "_x": "2.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "30",
+                            "_x": "2.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "31",
+                            "_x": "3.25",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "32",
+                            "_x": "3.75",
+                            "_y": "-5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "33",
+                            "_x": "5.6713",
+                            "_y": "-3.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "34",
+                            "_x": "5.6713",
+                            "_y": "-3.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "35",
+                            "_x": "5.6713",
+                            "_y": "-2.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "36",
+                            "_x": "5.6713",
+                            "_y": "-2.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "37",
+                            "_x": "5.6713",
+                            "_y": "-1.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "38",
+                            "_x": "5.6713",
+                            "_y": "-1.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "39",
+                            "_x": "5.6713",
+                            "_y": "-0.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "40",
+                            "_x": "5.6713",
+                            "_y": "-0.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "41",
+                            "_x": "5.6713",
+                            "_y": "0.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "42",
+                            "_x": "5.6713",
+                            "_y": "0.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "43",
+                            "_x": "5.6713",
+                            "_y": "1.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "44",
+                            "_x": "5.6713",
+                            "_y": "1.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "45",
+                            "_x": "5.6713",
+                            "_y": "2.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "46",
+                            "_x": "5.6713",
+                            "_y": "2.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "47",
+                            "_x": "5.6713",
+                            "_y": "3.25",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "48",
+                            "_x": "5.6713",
+                            "_y": "3.75",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40"
+                        },
+                        {
+                            "_name": "49",
+                            "_x": "3.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "50",
+                            "_x": "3.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "51",
+                            "_x": "2.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "52",
+                            "_x": "2.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "53",
+                            "_x": "1.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "54",
+                            "_x": "1.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "55",
+                            "_x": "0.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "56",
+                            "_x": "0.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "57",
+                            "_x": "-0.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "58",
+                            "_x": "-0.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "59",
+                            "_x": "-1.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "60",
+                            "_x": "-1.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "61",
+                            "_x": "-2.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "62",
+                            "_x": "-2.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "63",
+                            "_x": "-3.25",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "64",
+                            "_x": "-3.75",
+                            "_y": "5.6713",
+                            "_dx": "1.4692",
+                            "_dy": "0.28",
+                            "_layer": "1",
+                            "_roundness": "40",
+                            "_rot": "R90"
+                        }
+                    ],
+                    "text": [
+                        {
+                            "_x": "0",
+                            "_y": "7.0409",
+                            "_size": "1.27",
+                            "_layer": "25",
+                            "_align": "bottom-center",
+                            "__text": ">NAME"
+                        },
+                        {
+                            "_x": "0",
+                            "_y": "-7.0409",
+                            "_size": "1.27",
+                            "_layer": "27",
+                            "_align": "top-center",
+                            "__text": ">VALUE"
+                        }
+                    ],
+                    "_name": "QFP50P1200X1200X160-64N",
+                    "_urn": "urn:adsk.eagle:footprint:20868441/1"
+                }
+            },
+            "packages3d": {
+                "package3d": {
+                    "description": "64-QFP, 0.50 mm pitch, 12.00 mm span, 10.00 X 10.00 X 1.60 mm body\n<p>64-pin QFP package with 0.50 mm pitch, 12.00 mm lead span1 X 12.00 mm lead span2 with body size 10.00 X 10.00 X 1.60 mm</p>",
+                    "packageinstances": {
+                        "packageinstance": {
+                            "_name": "QFP50P1200X1200X160-64N"
+                        }
+                    },
+                    "_name": "QFP50P1200X1200X160-64N",
+                    "_urn": "urn:adsk.eagle:package:20867921/1",
+                    "_type": "model"
+                }
+            },
+            "symbols": {
+                "symbol": {
+                    "description": "stm32f401re",
+                    "wire": [
+                        {
+                            "_x1": "-102.32",
+                            "_y1": "39.86",
+                            "_x2": "-39.82",
+                            "_y2": "39.86",
+                            "_width": "0.254",
+                            "_layer": "94"
+                        },
+                        {
+                            "_x1": "-39.82",
+                            "_y1": "39.86",
+                            "_x2": "-39.82",
+                            "_y2": "-27.94",
+                            "_width": "0.254",
+                            "_layer": "94"
+                        },
+                        {
+                            "_x1": "-39.82",
+                            "_y1": "-27.94",
+                            "_x2": "-102.32",
+                            "_y2": "-27.94",
+                            "_width": "0.254",
+                            "_layer": "94"
+                        },
+                        {
+                            "_x1": "-102.32",
+                            "_y1": "-27.94",
+                            "_x2": "-102.32",
+                            "_y2": "39.86",
+                            "_width": "0.254",
+                            "_layer": "94"
+                        }
+                    ],
+                    "pin": [
+                        {
+                            "_name": "VBAT",
+                            "_x": "-107.5",
+                            "_y": "24.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC13",
+                            "_x": "-107.5",
+                            "_y": "21.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC14-OSC32_IN",
+                            "_x": "-107.5",
+                            "_y": "18.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC15-OSC32_OUT",
+                            "_x": "-107.5",
+                            "_y": "16",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PH0-OSC_IN",
+                            "_x": "-107.5",
+                            "_y": "13.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PH1-OSC_OUT",
+                            "_x": "-107.5",
+                            "_y": "11",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "NRST",
+                            "_x": "-107.5",
+                            "_y": "8.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC0",
+                            "_x": "-107.5",
+                            "_y": "6",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC1",
+                            "_x": "-107.5",
+                            "_y": "3.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC2",
+                            "_x": "-107.5",
+                            "_y": "1",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PC3",
+                            "_x": "-107.5",
+                            "_y": "-1.5",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "VSSA/VREF-",
+                            "_x": "-107.5",
+                            "_y": "-4",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "VDDA/VREF+",
+                            "_x": "-107.5",
+                            "_y": "-7",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PA0",
+                            "_x": "-107.5",
+                            "_y": "-10",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PA1",
+                            "_x": "-107.5",
+                            "_y": "-13",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PA2",
+                            "_x": "-107.5",
+                            "_y": "-16",
+                            "_length": "middle"
+                        },
+                        {
+                            "_name": "PA3",
+                            "_x": "-92",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "VSS",
+                            "_x": "-89",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "VDD",
+                            "_x": "-86",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PA4",
+                            "_x": "-83.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PA5",
+                            "_x": "-81",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PA6",
+                            "_x": "-78.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PA7",
+                            "_x": "-76",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PC4",
+                            "_x": "-73.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PC5",
+                            "_x": "-71",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PB0",
+                            "_x": "-68.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PB1",
+                            "_x": "-66",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PB2",
+                            "_x": "-63.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PB10",
+                            "_x": "-61",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "VCAP1",
+                            "_x": "-58.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "VSS1",
+                            "_x": "-55.5",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "VDD1",
+                            "_x": "-53",
+                            "_y": "-33",
+                            "_length": "middle",
+                            "_rot": "R90"
+                        },
+                        {
+                            "_name": "PA14",
+                            "_x": "-51",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PA15",
+                            "_x": "-54",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PC10",
+                            "_x": "-57",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PC11",
+                            "_x": "-59.5",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PC12",
+                            "_x": "-62",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PD2",
+                            "_x": "-64.5",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB3",
+                            "_x": "-67",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB4",
+                            "_x": "-69.5",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB5",
+                            "_x": "-72",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB6",
+                            "_x": "-74.5",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB7",
+                            "_x": "-77",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "BOOT0",
+                            "_x": "-79.5",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB8",
+                            "_x": "-82",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB9",
+                            "_x": "-85",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "VSS3",
+                            "_x": "-88",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "VDD3",
+                            "_x": "-90.5",
+                            "_y": "45",
+                            "_length": "middle",
+                            "_rot": "R270"
+                        },
+                        {
+                            "_name": "PB12",
+                            "_x": "-34.5",
+                            "_y": "-14",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PB13",
+                            "_x": "-34.5",
+                            "_y": "-11",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PB14",
+                            "_x": "-34.5",
+                            "_y": "-8",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PB15",
+                            "_x": "-34.5",
+                            "_y": "-5.5",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PC6",
+                            "_x": "-34.5",
+                            "_y": "-3",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PC7",
+                            "_x": "-34.5",
+                            "_y": "-0.5",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PC8",
+                            "_x": "-34.5",
+                            "_y": "2",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PC9",
+                            "_x": "-34.5",
+                            "_y": "4.5",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PA8",
+                            "_x": "-34.5",
+                            "_y": "7",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PA9",
+                            "_x": "-34.5",
+                            "_y": "9.5",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PA10",
+                            "_x": "-34.5",
+                            "_y": "12",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PA11",
+                            "_x": "-34.5",
+                            "_y": "14.5",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PA12",
+                            "_x": "-34.5",
+                            "_y": "17",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "PA13",
+                            "_x": "-34.5",
+                            "_y": "20",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "VSS2",
+                            "_x": "-34.5",
+                            "_y": "23",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        },
+                        {
+                            "_name": "VDD2",
+                            "_x": "-34.5",
+                            "_y": "25.5",
+                            "_length": "middle",
+                            "_rot": "R180"
+                        }
+                    ],
+                    "_name": "STM32F401RE"
+                }
+            },
+            "devicesets": {
+                "deviceset": {
+                    "description": "stm32f401re",
+                    "gates": {
+                        "gate": {
+                            "_name": "G$1",
+                            "_symbol": "STM32F401RE",
+                            "_x": "53.34",
+                            "_y": "2.54"
+                        }
+                    },
+                    "devices": {
+                        "device": {
+                            "connects": {
+                                "connect": [
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "BOOT0",
+                                        "_pad": "60"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "NRST",
+                                        "_pad": "7"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA0",
+                                        "_pad": "14"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA1",
+                                        "_pad": "15"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA10",
+                                        "_pad": "43"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA11",
+                                        "_pad": "44"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA12",
+                                        "_pad": "45"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA13",
+                                        "_pad": "46"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA14",
+                                        "_pad": "49"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA15",
+                                        "_pad": "50"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA2",
+                                        "_pad": "16"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA3",
+                                        "_pad": "17"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA4",
+                                        "_pad": "20"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA5",
+                                        "_pad": "21"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA6",
+                                        "_pad": "22"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA7",
+                                        "_pad": "23"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA8",
+                                        "_pad": "41"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PA9",
+                                        "_pad": "42"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB0",
+                                        "_pad": "26"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB1",
+                                        "_pad": "27"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB10",
+                                        "_pad": "29"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB12",
+                                        "_pad": "33"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB13",
+                                        "_pad": "34"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB14",
+                                        "_pad": "35"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB15",
+                                        "_pad": "36"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB2",
+                                        "_pad": "28"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB3",
+                                        "_pad": "55"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB4",
+                                        "_pad": "56"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB5",
+                                        "_pad": "57"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB6",
+                                        "_pad": "58"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB7",
+                                        "_pad": "59"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB8",
+                                        "_pad": "61"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PB9",
+                                        "_pad": "62"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC0",
+                                        "_pad": "8"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC1",
+                                        "_pad": "9"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC10",
+                                        "_pad": "51"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC11",
+                                        "_pad": "52"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC12",
+                                        "_pad": "53"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC13",
+                                        "_pad": "2"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC14-OSC32_IN",
+                                        "_pad": "3"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC15-OSC32_OUT",
+                                        "_pad": "4"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC2",
+                                        "_pad": "10"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC3",
+                                        "_pad": "11"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC4",
+                                        "_pad": "24"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC5",
+                                        "_pad": "25"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC6",
+                                        "_pad": "37"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC7",
+                                        "_pad": "38"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC8",
+                                        "_pad": "39"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PC9",
+                                        "_pad": "40"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PD2",
+                                        "_pad": "54"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PH0-OSC_IN",
+                                        "_pad": "5"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "PH1-OSC_OUT",
+                                        "_pad": "6"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VBAT",
+                                        "_pad": "1"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VCAP1",
+                                        "_pad": "30"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VDD",
+                                        "_pad": "19"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VDD1",
+                                        "_pad": "32"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VDD2",
+                                        "_pad": "48"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VDD3",
+                                        "_pad": "64"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VDDA/VREF+",
+                                        "_pad": "13"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VSS",
+                                        "_pad": "18"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VSS1",
+                                        "_pad": "31"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VSS2",
+                                        "_pad": "47"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VSS3",
+                                        "_pad": "63"
+                                    },
+                                    {
+                                        "_gate": "G$1",
+                                        "_pin": "VSSA/VREF-",
+                                        "_pad": "12"
+                                    }
+                                ]
+                            },
+                            "package3dinstances": {
+                                "package3dinstance": {
+                                    "_package3d_urn": "urn:adsk.eagle:package:20867921/1"
+                                }
+                            },
+                            "technologies": {
+                                "technology": {
+                                    "_name": ""
+                                }
+                            },
+                            "_name": "",
+                            "_package": "QFP50P1200X1200X160-64N"
+                        }
+                    },
+                    "_name": "STM32F401RE",
+                    "_uservalue": "yes"
+                }
+            }
+        }
+    },
+    "compatibility": {
+        "note": [
+            {
+                "_version": "8.3",
+                "_severity": "warning",
+                "__text": "Since Version 8.3, EAGLE supports URNs for individual library\nassets (packages, symbols, and devices). The URNs of those assets\nwill not be understood (or retained) with this version."
+            },
+            {
+                "_version": "8.3",
+                "_severity": "warning",
+                "__text": "Since Version 8.3, EAGLE supports the association of 3D packages\nwith devices in libraries, schematics, and board files. Those 3D\npackages will not be understood (or retained) with this version."
+            }
+        ]
+    },
+    "_version": "9.6.1"
+}
+}]
