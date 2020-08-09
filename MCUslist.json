@@ -22,11 +22,11 @@
             "STM32L053R8":["LQFP64,TFBGA64","64 kBytes","8 kBytes","51,150","32 MHz","0","Status Active"],
             "STM32L073RZ":["LQFP64,UFBGA64,TFBGA64","192 KBytes","20 kBytes","51,50,50","32 MHz","0","Status Active"],
             "STM32L152RE":["LQFP64","512 kBytes","80 kBytes","51","32 MHz","0","Status Active"],
-            "STM32L433RC-P":["LQFP64,UFBGA64,WLCSP64","256 KBytes","64 KBytes","52,52,52","80 MHz","0","Status Active"], 
+            "STM32L433RCP":["LQFP64,UFBGA64,WLCSP64","256 KBytes","64 KBytes","52,52,52","80 MHz","0","Status Active"], 
             "STM32L452RE":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
-            "STM32L452RE-P":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
+            "STM32L452REP":["LQFP64,UFBGA64,WLCSP64","512 kBytes","160 kbytes","52","80 MHz","0","Status proposal"],
             "STM32L476RG":["LQFP64","1024 kBytes","128 kBytes","51","80 MHz","0","Status Active"],
-            "P-Neucleo WB55RG":["VFQFPN68","1024 kBytes","256 KBytes","49","64 MHz","0","Status Active"]    
+            "PNeucleoWB55RG":["VFQFPN68","1024 kBytes","256 KBytes","49","64 MHz","0","Status Active"]    
                    
         },
         "descriptionsspec":{
@@ -49,7 +49,7 @@
             "STM32L452RE":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
             "STM32L452REP":["Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 Kbytes Flash, USB Device, DFSDM"],
             "STM32L476RG":["Ultra-low-power with FPU ARM Cortex-M4 MCU 80 MHz with 1 Mbyte Flash, LCD, USB OTG, DFSDM"],
-            "PNeucleo WB55RG":["Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32MHz with 1 Mbyte of Flash memory, Bluetooth 5, 802.15.4, USB, LCD, AES-256"]    
+            "PNeucleoWB55RG":["Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32MHz with 1 Mbyte of Flash memory, Bluetooth 5, 802.15.4, USB, LCD, AES-256"]    
         }
   }
   
