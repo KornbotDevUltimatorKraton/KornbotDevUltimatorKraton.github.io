@@ -91,9 +91,9 @@
             "STM32H743ZI":["LQFP144","2048 kBytes","1024 kBytes","114","480 MHz","0","Status Active"],
             "STM32H743ZI2":["LQFP144","2048 kBytes","1024 kBytes","114","480 MHz","0","Status Active"],
             "STM32L496ZG":["LQFP144","1024 kbytes","320 kBytes","115","80 MHz","0","Status Active"],
-            "STM32L496ZG-P":["LQFP144","1024 kBytes","320 kbytes","113","80 MHz","0","Status Active"],
+            "STM32L496ZGP":["LQFP144","1024 kBytes","320 kbytes","113","80 MHz","0","Status Active"],
             "STM32L4R5ZI":["LQFP144,WLCSP144","2048 kbytes","640 kbytes","115","120 MHz","0","Status Active"],
-            "STM32L4R5ZI-P":["LQFP144,WLCSP144","2048 kBytes","640 kBytes","110","120 MHz","0","Status Active"]
+            "STM32L4R5ZIP":["LQFP144,WLCSP144","2048 kBytes","640 kBytes","110","120 MHz","0","Status Active"]
                   
         },
         "descriptionsspec":{
