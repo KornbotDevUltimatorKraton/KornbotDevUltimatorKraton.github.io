@@ -16,7 +16,7 @@
   
   },
   {
-    "Sensortype":"Analog flexible resistor",
+    "Sensortype":"Analog potentiometer",
     "Sensorlist":{
        "Sensorcode":["FSR402","",""],
        "Sensordesc":["Sensitive force resistor","",""]    
