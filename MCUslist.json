@@ -113,7 +113,7 @@
     {
       "Boardseries": "Generic-STM32F0-series" 
        ,
-      "mcufamily":{"mcuset":['STM32F030F4']},
+      "mcufamily":{"mcuset":["STM32F030F4"]},
       "Specifications":{
           ["TSSOP20","256 kBytes","32 kBytes","55","48 MHz","Status Active"]
       
