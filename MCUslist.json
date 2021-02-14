@@ -115,7 +115,7 @@
        ,
       "mcufamily":{"mcuset":["STM32F030F4"],
       "Specifications":{
-             "STM32F030F4":["TSSOP20","256 kBytes","32 kBytes","55","48 MHz","Status Active"]
+             "STM32F030F4":["TSSOP20","256 kBytes","32 kBytes","55","48 MHz","0","Status Active"]
       
       },
       "descriptionsspec":{ 
