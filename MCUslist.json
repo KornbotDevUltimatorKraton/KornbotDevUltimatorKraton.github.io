@@ -113,16 +113,15 @@
    {
       "Boardseries": "Generic-STM32F0-series" 
        ,
-      "mcufamily":{"mcuset":["STM32F030F4"]},
+      "mcufamily":{"mcuset":["STM32F030F4"]
       "Specifications":{
              "STM32F030F4":["TSSOP20","256 kBytes","32 kBytes","55","48 MHz","Status Active"]
       
       },
       "descriptionsspec":{ 
           "STM32F030F4":["High Performance Arm, ARM Cortex-M0 MCU with 256 Kbytes Flash, 48 MHz CPU, Sensor array GPS printers scanner PLCs, I2C SPIs UART USART and CAN"]
-                              
-      }
-   },
+     }
+  },
    {
     "Boardseries": "Generic-STM32F1-series"     
     ,
